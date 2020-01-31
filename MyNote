@@ -1,0 +1,12 @@
+java.lang.System:
+System.currentTimeMillis();
+
+java.lang.Math:
+Math.random();
+
+java.util.Arrays:
+Arrays.toString();
+
+排序方法中，如果n<pow(2, 10),则快速排序，归并排序，希尔排序更快，如果n>pow(2, 10),则基数排序更快
+
+
